@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="left">
         <div className="top">
           <h1>
-            Hello, I'm Albert, a <br /> UI/UX <span>Designer.</span>
+            Hello, I'm Alb, a <br /> UI/UX <span>Designer.</span>
             <div className="rectangle">
               <img src={rectangle} alt="rect" />
             </div>
